@@ -1,0 +1,59 @@
+.topcontainer {
+    background-color: #B0DAFF;
+    position: relative;
+    padding-top: 5em;
+}
+
+.middle-container{
+
+} 
+
+.bottom-container{
+    
+}
+
+.profile p {
+    font-size: 1.2em;
+    margin : 0 auto;
+    width: 70%;
+}
+
+.profile {
+    padding: 50px;
+}
+#computerImg {
+    position: relative;
+    top : 2em;
+}
+.top-cloud {
+    position: absolute;
+    right : 300px;
+    top : 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left : 300px;
+    bottom : 300px;
+}
+h1 {
+    font-family: 'Alkatra', cursive;
+    width: 20%;
+    margin : 0 auto;
+}
+hr {
+    border-color: gray;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 10%;
+}
+
+
+body {
+    background-color: #ECF9FF;
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
